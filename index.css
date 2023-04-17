@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+section{
+background-color:#c8c8c8;
+color: black;
+}
+
+
+
+span{
+    color: #186c9c;
+border-radius: 5px;
+box-shadow: 4px 4px 6px 1px;
+    background-color: white;
+}
+body{
+
+    
+}
+.dharam{
+
+    background-color: #186c9c;
+}
+span{
+
+    background-color: white;
+    color: #084c94;
+}
+.elig{
+color: white;
+
+    background-color:#03A9F4;
+
+}
